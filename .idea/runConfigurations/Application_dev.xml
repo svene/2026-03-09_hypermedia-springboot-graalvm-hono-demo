@@ -2,7 +2,7 @@
   <configuration default="false" name="Application_dev" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
     <option name="ACTIVE_PROFILES" value="dev" />
     <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-    <module name="hda-springboot-graalvm-jsx-demo" />
+    <module name="hda-springboot-graalvm-hono-demo" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="org.svenehrke.demo.Application" />
     <extension name="coverage">
       <pattern>
