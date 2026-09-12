@@ -1,10 +1,10 @@
-# SpringBoot-GraalVM-JSX Hypermedia Demo
+# SpringBoot-GraalVM-Hono Hypermedia Demo
 
 Hypermedia driven Application using:
 
 - GraalVM
 - Spring Boot
-- JSX (from Hono)
+- Hono
 
 ## Development
 
@@ -20,7 +20,7 @@ or indirectly via npm:
 - start Spring Boot App
 - point browser to http://localhost:8080
 
-Changes in tsx files will be immediately visible in browser.
+Changes in ts files will be immediately visible in browser.
 
 ### with node/npm
 
@@ -31,4 +31,4 @@ Changes in tsx files will be immediately visible in browser.
 - start Spring Boot App
 - point browser to http://localhost:8080
 
-Changes in tsx files will be immediately visible in browser.
+Changes in ts files will be immediately visible in browser.
