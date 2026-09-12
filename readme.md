@@ -1,4 +1,4 @@
-# SpringBoot-GraalVM-JSX HDA Demo
+# SpringBoot-GraalVM-JSX Hypermedia Demo
 
 Hypermedia driven Application using:
 

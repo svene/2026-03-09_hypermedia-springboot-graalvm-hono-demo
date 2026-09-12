@@ -1,8 +1,8 @@
-# Architecture: Spring Boot + GraalVM + hono/html HDA demo
+# Architecture: Spring Boot + GraalVM + hono/html Hypermedia demo
 
 ## Overview
 
-A **Hypermedia-Driven Application (HDA)**: HTML is rendered server-side and the browser swaps in
+A **Hypermedia-Driven Application**: HTML is rendered server-side and the browser swaps in
 fragments with htmx — no SPA, no client-side rendering.
 
 - **Spring Boot 4.0.3** (Java 21) — Spring MVC controllers, `JdbcClient` persistence
